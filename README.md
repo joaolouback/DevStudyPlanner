@@ -9,9 +9,6 @@ Acesse a aplicação em https://dev-study-planner.vercel.app
 O StudyPlanner foi criado para capacitar desenvolvedores, sejam iniciantes explorando o mundo da programação ou profissionais experientes aprimorando suas habilidades. A plataforma ajuda você a:
 
 
-
-
-
 Organizar seu cronograma de estudos: Planeje e priorize tarefas de aprendizado com facilidade.
 
 
@@ -28,6 +25,10 @@ Gerenciar recursos: Organize e acesse materiais de estudo, como artigos, vídeos
 
 Seja para aprender novos frameworks, preparar-se para certificações ou trabalhar em projetos reais, o StudyPlanner está aqui para simplificar sua jornada.
 
+## Prototipo no Figma:
+```bash
+https://www.figma.com/design/09U2SweKLmOR9kN3HcEgkM/StudyDev?node-id=0-1&t=XHBjYWE6DOKOSwjP-1
+```
 ## 🌟 Funcionalidades
 
 
