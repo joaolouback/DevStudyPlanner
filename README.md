@@ -1,59 +1,94 @@
-# Studyplanner
+# StudyPlanner 📚✨
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.0.
+Bem-vindo ao StudyPlanner, uma plataforma poderosa e intuitiva projetada especialmente para desenvolvedores organizarem, acompanharem e potencializarem sua jornada de aprendizado. Desenvolvido com Angular e hospedado no Vercel, o StudyPlanner é a ferramenta ideal para dominar habilidades de programação, manter-se motivado e alcançar seus objetivos como desenvolvedor. 
 
-## Development server
+Acesse a aplicação em https://dev-study-planner.vercel.app
 
-To start a local development server, run:
+## 🚀 Objetivo
 
+O StudyPlanner foi criado para capacitar desenvolvedores, sejam iniciantes explorando o mundo da programação ou profissionais experientes aprimorando suas habilidades. A plataforma ajuda você a:
+
+
+
+
+
+Organizar seu cronograma de estudos: Planeje e priorize tarefas de aprendizado com facilidade.
+
+
+
+Acompanhar seu progresso: Monitore seu avanço em desafios de programação, tutoriais e projetos.
+
+
+
+Manter a motivação: Defina metas, conquiste marcos e celebre suas vitórias.
+
+
+
+Gerenciar recursos: Organize e acesse materiais de estudo, como artigos, vídeos e documentações, em um só lugar.
+
+Seja para aprender novos frameworks, preparar-se para certificações ou trabalhar em projetos reais, o StudyPlanner está aqui para simplificar sua jornada.
+
+## 🌟 Funcionalidades
+
+
+
+
+
+Planos de Estudo Personalizáveis: Crie cronogramas sob medida para aprender linguagens, frameworks ou ferramentas.
+
+
+
+Painel de Progresso: Visualize seu progresso de aprendizado com gráficos e estatísticas intuitivas.
+
+
+
+Central de Recursos: Salve e categorize tutoriais, documentações e outros materiais para acesso rápido.
+
+
+
+Lembretes e Notificações: Mantenha-se no caminho certo com lembretes para sessões de estudo e prazos.
+
+
+
+Integração com a Comunidade: Compartilhe seu progresso e conecte-se com outros desenvolvedores para se inspirar.
+
+## 🔗 Como Começar
+
+Acesse https://dev-study-planner.vercel.app/ para explorar a plataforma e começar a planejar sua jornada de aprendizado hoje mesmo!
+
+## 🛠️ Tecnologias Utilizadas
+
+
+
+
+
+Angular: Um framework robusto para construir aplicações web dinâmicas e escaláveis.
+
+
+
+Vercel: Para hospedagem rápida, confiável e sem complicações.
+
+## 📅 Melhorias Futuras
+
+Estou constantemente aprimorando o StudyPlanner! As próximas funcionalidades incluem:
+
+Integração com plataformas de programação como GitHub e LeetCode.
+
+Recomendações de aprendizado personalizadas com inteligência artificial.
+
+Suporte offline para planos de estudo e recursos.
+
+Grupos de estudo colaborativos para aprendizado entre pares.
+
+## 🤝 Como Contribuir
+
+Adoramos contribuições da comunidade de desenvolvedores! Se você deseja contribuir para o StudyPlanner, faça um fork do repositório, implemente suas alterações e envie um pull request.
+
+## 📬 Feedback
+
+Tem ideias ou sugestões para melhorar o StudyPlanner? Entre em contato pelo e-mail ou abra uma issue no nosso repositório no GitHub.
+### E-mail: 
 ```bash
-ng serve
+jpestevaoloubackbr@gmail.com
 ```
-
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Boa sorte nos estudos e vamos programar o futuro juntos! 🚀
